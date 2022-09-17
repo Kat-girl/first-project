@@ -3,7 +3,9 @@
 }
 .page {
     background-color: bisque;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100%;
+    margin: 0;   
 }
 .container {
     width: 70%;
